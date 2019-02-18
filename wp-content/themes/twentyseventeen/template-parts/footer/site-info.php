@@ -15,7 +15,7 @@
 		the_privacy_policy_link( '', '<span role="separator" aria-hidden="true"></span>' );
 	}
 	?>
-	<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentyseventeen' ) ); ?>" class="imprint">
-		<?php printf( __( 'Proudly powered by %s', 'twentyseventeen' ), 'WordPress' ); ?>
+	<a href="<?php echo esc_url( __( 'http://raulmarkuskivisalu.ikt.khk.ee/wordpress/' ) ); ?>" class="imprint">
+		<?php printf( __( 'Nimi: Raul<br>mail: raul-markus.kivisalu@khk.ee<br> aadress: ' ), 'WordPress' ); ?>
 	</a>
 </div><!-- .site-info -->
